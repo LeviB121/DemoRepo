@@ -25,5 +25,7 @@ Setup a remote "upstream" link pointing to this repo "DemoRepo" (not your fork)
 Later, pull the upstream into your local to get what others have committed
 
 Have fun
+I'm having fun!
+
 
 
